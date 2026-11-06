@@ -1,0 +1,4 @@
+__pycache__/
+tools/portrait-*.txt
+!tools/portrait-96-bright.txt
+tools/*.new
